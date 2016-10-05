@@ -7,5 +7,5 @@ Physical Computing:
 * Arduino
 
 
-[video demo](https://youtu.be/aB8Mhqm-s0c)
-
+[video demo #1: knob](https://youtu.be/aB8Mhqm-s0c)
+[video demo #2: light sensor](https://youtu.be/iLC0Kz4CG4Y)
