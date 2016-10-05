@@ -36,7 +36,12 @@ void loop() {
   // read the analog in value:
   sensorValue = analogRead(analogInPin);
   // map it to the range of the analog out:
-  outputValue = map(sensorValue, 350, 850, 0, 255);
+
+//light sensor
+//  outputValue = map(sensorValue, 350, 850, 0, 255);
+
+//Temp sensor
+  outputValue = map(sensorValue, 550, 600, 0, 255);
 
   if (outputValue <= 0) {
     outputValue = 0;
