@@ -4,7 +4,7 @@
 
 Physical Computing: Arduino
 
-* [video demo](https://youtu.be/Ms7Af5KtuOE)
+* [video demo](https://youtu.be/CuFCLIuE1T0)
 * [internals](http://imgur.com/a/kiCf9)
 
 ####Description:
