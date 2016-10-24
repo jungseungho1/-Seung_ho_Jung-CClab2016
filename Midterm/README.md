@@ -4,13 +4,13 @@
 
 Physical Computing: Arduino
 
-* [video demo](https://youtu.be/7zJwBYVPm4Y)
+* [video demo](https://youtu.be/Ms7Af5KtuOE)
 * [internals](http://imgur.com/a/kiCf9)
 
 ####Description:
-Today, data is transmitted in forms that human senses cannot comprehend. This project aims to aid in unveiling the unseen data into information that we can digest.
+With today’s overabundance of technology, we rely heavily on information transmitting in forms that are incomprehensible to human senses. This project aims to aid in unveiling the invisible data into information that humans can digest.
 
-Human senses cannot pick up electromagnetic waves. This cloud lights up, squeaks, and squeals in presence of electromagnetic wave/field.
+This is an Electromagnetic Weather Cloud. As human senses cannot pick up electromagnetic waves, the object translates the invisible electromagnetic field into a visual concept of weather that we are familiar with.
 
 
 #####Reference:
