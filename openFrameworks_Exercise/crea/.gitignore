@@ -1,0 +1,129 @@
+bin/creaDebug
+bin/crea
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#########################
+# general
+#########################
+
+[Bb]uild/
+[Oo]bj/
+*.o
+[Dd]ebug*/
+[Rr]elease*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+*.log
+*.cpp.eep
+*.cpp.elf
+*.cpp.hex
+
+#########################
+# IDE
+#########################
+
+# XCode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+# XCode 4
+xcuserdata
+*.xcworkspace
+
+# Code::Blocks
+*.depend
+*.layout
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.ilk
+*.aps
+ipch/
+
+# Eclipse
+.metadata
+local.properties
+.externalToolBuilders
+
+#########################
+# operating system
+#########################
+
+# Linux
+*~
+# KDE
+.directory
+.AppleDouble
+
+# OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+# Windows
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+openFrameworks-Info.plist
+
+Project.xcconfig
+
+crea.xcodeproj/project.pbxproj
+
+crea.xcodeproj/xcshareddata/xcschemes/crea Debug.xcscheme
+
+crea.xcodeproj/xcshareddata/xcschemes/crea Release.xcscheme
+
+bin/data/kinect/depth2
+bin/data/kinect/depth3
+bin/data/kinect/depth4
+bin/data/kinect/ir2
+bin/data/kinect/ir3
+bin/data/kinect/ir4
+
+src/vmo.cpp
+
+src/helper.cpp
+
+src/helper.h
+
+src/vmo.h
