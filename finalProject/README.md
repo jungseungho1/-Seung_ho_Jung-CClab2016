@@ -4,4 +4,4 @@
 
 Final Project: Built in Unity w/ photogrammetry for models.
 
-* [video demo #1](https://youtu.be/cEzeZgOxMXQ)
+* [video demo #1](https://youtu.be/ZjwUteiWSoQ)
