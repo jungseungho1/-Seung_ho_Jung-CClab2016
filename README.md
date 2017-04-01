@@ -1,4 +1,4 @@
 # Seung ho Jung
 ## Parsons MFADT
-### CClab2016
+### Creative Coding lab Fall 2016
 
